@@ -1,0 +1,6 @@
+@TodoTracker.Api_HostAddress = http://localhost:5110
+
+GET {{TodoTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
